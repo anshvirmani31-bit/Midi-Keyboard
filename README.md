@@ -4,7 +4,7 @@ This is my week three project for half-life. The design and parts are different 
 
 # What is it?
 
-As the name suggests, this is a midi keyboard. It essentially sends data to a computer which then transforms those signals into music.
+As the name suggests, this is a midi keyboard. It essentially sends data to a computer which then transforms those signals into music. This can be used to create melodies when you don't have instruments on hand. It's also very convenient and easy to carry around since the PCB itself is less than 100x100mm. Another reason you may want to make this is because (I'm assuming) it's also fun to just play around with and see what kind of music you can make!
 
 
 # How is mine different?
