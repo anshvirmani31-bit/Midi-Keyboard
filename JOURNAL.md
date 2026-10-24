@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 11.68h | 3 |
+| Week 3 | Tier 1 | 11.78h | 3 |
 
 ## Contents
 
@@ -54,7 +54,7 @@ I completely rerouted the pcb in order or use the rotary knob's click function. 
 
 ### 2026-10-23 – I revised and fixed a couple of bugs/errors in my code, it's better now and it's my hope that it'll actually work. Like I've said before, I have zero experience with coding, it's just not my thing. Ho
 
-**1.68h**
+**1.78h**
 
 I revised and fixed a couple of bugs/errors in my code, it's better now and it's my hope that it'll actually work. Like I've said before, I have zero experience with coding, it's just not my thing. However, that doesn't mean I haven't tried, in fact, I actually tried really hard with this code so I really hope it's good! I did use the given template but changed it to match my design.
 
