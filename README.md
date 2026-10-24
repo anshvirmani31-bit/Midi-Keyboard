@@ -31,6 +31,6 @@ My firmware uses the template that was given in the tutorial however it is adjus
 
 <img width="660" height="494" alt="Screenshot 2026-10-23 at 9 10 43 PM" src="https://github.com/user-attachments/assets/bf6003ac-7525-47e8-b50a-6c5920a0e92f" />
 
-### Back
+#### Back
 
 <img width="527" height="390" alt="Screenshot 2026-10-23 at 9 11 20 PM" src="https://github.com/user-attachments/assets/b1d430b0-367f-418b-bde5-a7f3330546c6" />
