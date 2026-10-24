@@ -13,7 +13,7 @@ My midi keyboard is different than that of the tutorial because my footprint for
 
 ## How is my firmware different?
 
-My firmware uses the template that was given in the tutorial however it is adjusted to my unique project. It accounts for 9 unique capacitive touch pads, two keyboard switches, and no sliders. This makes it my own unique code, not just copying and pasting the code that was given to us. I want to note that I watched youtube videos to learn how to change my code however I also used the google AI overview a little because there were some specific things that I couldn't find tutorials for made by real people online.
+My firmware uses the template that was given in the tutorial however it is adjusted to my unique project. It accounts for 9 unique capacitive touch pads, two keyboard switches, and no sliders. This makes it my own unique code, not just copying and pasting the code that was given to us. I want to note that I watched youtube videos to learn how to change my code however I also used the google AI overview a little because there were some specific things that I couldn't find tutorials for made by real people online. My firmware is based on KMK as suggested to do in the tutorial.
 
 
 # Images
